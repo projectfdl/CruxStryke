@@ -15,14 +15,21 @@ Print it, tweak it, share it and if you do and give us props. Please don't sell 
 
 Print your cage from PLA, PETG, ABS or your preferred 3D printing material.<br>
 0.2mm or similar layer height with 4 or more perimeters and 30%+ infill.<br>
+Use support under the three cage mount holes. Support avoidance on the rest of the cage is suggested but optional.<br>
+Drill cage mount holes and motor mount holes with 3mm bit.<br>
 See FDL-3 flywheel instructions for printing your flywheels.<br>
 Attach flywheels to motors with M2.5x5 flathead screws.<br>
 Mount motors to cage with M3x8 socket head screws.<br>
 Use thread locker on both flywheel and motor screws.<br>
 
+
 ## Shell mods
 
 Remove dart guides/rails from shell above cage with Dremel or other tool. All other shell mods including battery tray clearing are optional and done at your own discression.
+
+## Electronics
+
+You're on your own past the motors and ESC's. I used an FDL-3 power board and soldered wires directly to an Arduino Pro Mini in mine with a slightly altered FDL-3 semi firmware. There are lots of options and methods out there to spin brushless motors. Be creative;)
 
 ### Make on!
 
