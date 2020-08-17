@@ -16,7 +16,8 @@ Print it, tweak it, share it and if you do and give us props. Please don't sell 
 Print your cage from PLA, PETG, ABS or your preferred 3D printing material.<br>
 0.2mm or similar layer height with 4 or more perimeters and 30%+ infill.<br>
 Use support under the three cage mount holes. Support avoidance on the rest of the cage is suggested but optional.<br>
-Drill cage mount holes and motor mount holes with 3mm bit.<br>
+Drill cage mount holes and motor mount holes with 3mm bit. Use original cage screws to mount cage.<br>
+File or sand any rough/drooping areas inside the dart guides especially the upper sections.<br>
 See FDL-3 flywheel instructions for printing your flywheels.<br>
 Attach flywheels to motors with M2.5x5 flathead screws.<br>
 Mount motors to cage with M3x8 socket head screws.<br>
