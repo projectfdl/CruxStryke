@@ -20,5 +20,9 @@ See FDL-3 flywheel instructions for printing your flywheels.
 Attack flywheels to motors with M2.5x5 flathead screws.
 Mount motors to cage with M3x8 socket head screws.
 
+## Shell mods
+
+Remove dart guides/rails from shell above cage with Dremel or other tool. All other shell mods including battery tray clearing are optional and done at your own discression.
+
 ### Make on!
 
