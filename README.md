@@ -10,15 +10,15 @@ Welcome to the CruxStryke repository. A brushless mod for the Nerf Motostryke fe
 Print it, tweak it, share it and if you do and give us props. Please don't sell it without Project FDL permission.
 
 <br>
-<br>
 
 ## Printing your CruxStryke cage
 
 Print your cage from PLA, PETG, ABS or your preferred 3D printing material.<br>
-0.2mm or similar layer height with 4 or more perimeters and 30%+ infill.
-See FDL-3 flywheel instructions for printing your flywheels.
-Attack flywheels to motors with M2.5x5 flathead screws.
-Mount motors to cage with M3x8 socket head screws.
+0.2mm or similar layer height with 4 or more perimeters and 30%+ infill.<br>
+See FDL-3 flywheel instructions for printing your flywheels.<br>
+Attach flywheels to motors with M2.5x5 flathead screws.<br>
+Mount motors to cage with M3x8 socket head screws.<br>
+Use thread locker on both flywheel and motor screws.<br>
 
 ## Shell mods
 
