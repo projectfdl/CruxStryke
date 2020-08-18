@@ -19,6 +19,7 @@ Use support under the three cage mount holes. Support avoidance on the rest of t
 Drill cage mount holes and motor mount holes with 3mm bit. Use original cage screws to mount cage.<br>
 File or sand any rough/drooping areas inside the dart guides especially the upper sections.<br>
 See FDL-3 flywheel instructions for printing your flywheels.<br>
+The 15 & 16mm dimensions on flywheels indicate diameter formed by concavity of flywheel. 15mm is tighter crush and should produce higher FPS.<br>
 Attach flywheels to motors with M2.5x5 flathead screws.<br>
 Mount motors to cage with M3x8 socket head screws.<br>
 Use thread locker on both flywheel and motor screws.<br>
